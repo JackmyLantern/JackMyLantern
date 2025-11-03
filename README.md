@@ -9,9 +9,8 @@
 A reverse engineer exploring the depths of smart contracts. Each audit is a journey through the cryptographic maze, where logic bugs hide like Cheshire cats and exploits lurk in the shadows.
 
 **Specializations:**
-- 🔍 Smart Contract Reverse Engineering (EVM, Solana)
-- 🎯 Vulnerability Research (DeFi, NFTs, RWA, Cross-chain Bridges)
-- 🎲 Decentralized Gambling & Gacha Protocol Security
+- 🔍 Smart Contract Reverse Engineering / MEV (EVM, Solana)
+- 🎯 Vulnerability Research & Protocol Security (DeFi, NFTs, RWA, Cross-chain Bridges, GambleFi, Gaming...)
 - 🧪 Proof of Concept Development (Foundry)
 
 ---
