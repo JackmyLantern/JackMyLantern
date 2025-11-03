@@ -34,7 +34,7 @@ Each repository is a door to a different wonderland. Some lead to treasure, othe
 
 ## ⏰ Currently Exploring
 
-🌙 Hunting vulnerabilities in decentralized gambling protocols  
+🌙 Hunting vulnerabilities in new findings of decentralized finance   
 🔮 Studying cross-chain bridge architectures  
 🐇 Building exploit POCs for the wonderland  
 🎴 Contributing to Code4rena & Immunefi
