@@ -1,54 +1,27 @@
-# 🐰 Down the Rabbit Hole
+🐰 Down the Rabbit Hole
+"Curiouser and curiouser..." — Diving into the code of games and building thrilling online gambles.
+🕳️ Who Am I?
+A developer of gambling games and reverse engineer exploring the depths of video games. Each dive is a journey through the digital maze, where logic bugs hide like Cheshire cats and exploits lurk in the shadows. I'm interested into building online gambling games and reverse engineering video games.🐇
 
-*"Curiouser and curiouser..."* — Following vulnerabilities through the blockchain wonderland.
+Specializations:
 
----
+🔍 Video Game Reverse Engineering
+🎯 Online Gambling Game Development (Slots, Poker, Betting Systems, RNG Mechanics...)
+🧪 Proof of Concept Development (Game Mods & Prototypes)
 
-## 🕳️ Who Am I?
-
-A reverse engineer exploring the depths of smart contracts. Each audit is a journey through the cryptographic maze, where logic bugs hide like Cheshire cats and exploits lurk in the shadows.
-
-**Specializations:**
-- 🔍 Smart Contract Reverse Engineering / MEV (EVM, Solana)
-- 🎯 Vulnerability Research & Protocol Security (DeFi, NFTs, RWA, Cross-chain Bridges, GambleFi, Gaming...)
-- 🧪 Proof of Concept Development (Foundry)
-
----
-
-## 🎩 Down Which Holes I've Fallen
-
+🎩 Down Which Holes I've Fallen
 Each repository is a door to a different wonderland. Some lead to treasure, others to traps.
+"If you don't know where you are going, any road will get you there."
 
-*"If you don't know where you are going, any road will get you there."*
+🍄 Tools in My Pocket
+Reverse Engineering: IDA Pro, Ghidra, x64dbg, CheatEngine, and custom tools.
+Development : Cursor (GOAT), Loveable, Replit...
 
----
-
-## 🍄 Tools in My Pocket
-
-**Reverse Engineering:** Dedaub, Heimdall  
-**Static Analysis:** Slither, Mythril, Semgrep  
-**Dynamic Testing:** Foundry (forge, cast, anvil)  
-**On-chain Analysis:** Blockscan, Tenderly, Dune Analytics, Arkham Intelligence
-
----
-
-## ⏰ Currently Exploring
-
-🌙 Hunting vulnerabilities in new findings of decentralized finance   
-🔮 Studying cross-chain bridge architectures  
-🐇 Building exploit POCs for the wonderland  
-🎴 Contributing to Code4rena & Immunefi
-
----
-
-## 🎴 Find Me Through the Looking Glass
-
-🐦 **Twitter:** [@jacklanternxyz](https://x.com/jacklanternxyz)  
-🏆 **Code4rena:** Coming soon  
-💎 **Immunefi:** Coming soon
-
----
-
-*"We're all mad here. I'm mad. You're mad. How do you know I'm mad?"*
-
-🎃 **Jack My Lantern** — Illuminating the dark corners of blockchain security.
+⏰ Currently Exploring
+🌙 Hunting vulnerabilities in video game code
+🔮 Studying online gambling architectures
+🐇 Building game exploit POCs for the wonderland
+🎴 Find Me Through the Looking Glass
+🐦 Twitter: @jacklanternxyz
+"We're all mad here. I'm mad. You're mad. How do you know I'm mad?"
+🎃 Jack My Lantern — Illuminating the dark corners of games.
