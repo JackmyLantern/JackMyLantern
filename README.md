@@ -1,4 +1,4 @@
-# 👋 Jack — Gambling & Gacha Systems Engineer
+# 👋 Jack — Virtual Games & Gambling Engineer
 
 Building next-generation engagement platforms at the intersection of behavioral psychology, game theory, and web3 technology.
 
@@ -30,7 +30,7 @@ I combine **neuroscience research** with **practical engineering** to build plat
 ```
 Frontend:  React, Next.js, TailwindCSS
 Backend:   Node.js, Express, WebSocket (Socket.io)
-Database:  Supabase (PostgreSQL), Redis
+Database:  Supabase (PostgreSQL)
 Blockchain: Solidity, Rust (Solana), Polygon/Base
 Payments:  Stripe, Coinbase Commerce
 Hosting:   Vercel, Railway, Cloudflare
