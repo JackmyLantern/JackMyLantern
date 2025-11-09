@@ -1,79 +1,120 @@
-🎰 Welcome to the Casino Floor
-"The house always wins... because the house built the game."
-Where code meets chance, and algorithms deal the cards.
+# 👋 Tristan — Gambling & Gacha Systems Engineer
 
-🎲 Roll the Dice — Who Am I?
-A gambling game architect crafting the next generation of online betting experiences. I build the platforms where risk meets reward, where RNG meets player psychology, and where every spin, deal, and bet is engineered for engagement.
-You want to play a game ? Neither do I.
+Building next-generation engagement platforms at the intersection of behavioral psychology, game theory, and web3 technology.
 
-💎 My Hand:
+---
 
-🎰 Online Casino Development — Slots, Roulette, Blackjack, Live Dealer Systems...
-🃏 Poker & Card Game Platforms — Multi-table tournaments, cash games, provably fair systems
-🎯 Sports Betting & Prediction Markets — Real-time odds, risk management, market making
-🔮 Gacha & Loot Box Mechanics — Variable reward systems, pity mechanics, whale optimization
-🎲 Provably Fair Algorithms — Blockchain integration, RNG certification, transparency layers
-💰 Monetization Engineering — Payment flows, virtual currencies, retention mechanics
+## 🎯 What I Do
 
+I design and develop **psychologically-optimized betting and reward systems** for online platforms:
 
-🏆 The House Edge — My Projects
-"Every bet tells a story. Every platform is a carefully designed experience."
-Each repository is a different game on the casino floor. Some are slots, others are high-stakes poker tables.
+- **🎰 Casino & Betting Platforms** — Slots, table games, crash mechanics, live dealer integration
+- **🎲 Prediction Markets** — Real-time odds engines, AMM-style liquidity, market resolution systems  
+- **🎴 Gacha & Loot Systems** — Variable reward mechanics, pity systems, collection optimization
+- **🔐 Provably Fair Systems** — Blockchain-integrated RNG, transparency layers, verifiable randomness
+- **📊 Behavioral Analytics** — Retention mechanics, monetization funnels, player lifecycle optimization
+- **💰 Payment Infrastructure** — Fiat & crypto integration, KYC/AML compliance, multi-currency support
 
-🎴 Live Tables (Active Projects):
+I combine **neuroscience research** with **practical engineering** to build platforms that maximize engagement while maintaining transparency.
 
-Coming Soon — The cards are being shuffled...
+---
 
-🎰 Past Wins (Portfolio):
+## 🛠️ Tech Stack
 
-TBA — Building my first big score...
+### **AI-Powered Development**
+- **Cursor** — AI pair programming for rapid iteration
+- **Claude / Grok** — Architecture design & code review
+- **Lovable / Replit** — Full-stack prototyping & deployment
 
+### **Core Infrastructure**
+```
+Frontend:  React, Next.js, TailwindCSS
+Backend:   Node.js, Express, WebSocket (Socket.io)
+Database:  Supabase (PostgreSQL), Redis
+Blockchain: Solidity, Rust (Solana), Polygon/Base
+Payments:  Stripe, Coinbase Commerce
+Hosting:   Vercel, Railway, Cloudflare
+Analytics: Mixpanel, PostHog
+```
 
-🃏 My Tech Stack — Tools of the Trade : 
+### **Specialized Skills**
+- **Game Theory & Mathematics** — House edge optimization, EV calculations, statistical modeling
+- **RNG Systems** — Cryptographically secure randomness, Chainlink VRF integration
+- **Behavioral Psychology** — Reward schedules, cognitive bias exploitation, retention engineering
+- **Regulatory Compliance** — Offshore licensing, responsible gambling features, audit trails
 
-🎰 AI-Powered Development ArsenalCore Stack (The Power Play):
+---
 
-🤖 Cursor — AI pair programming, shipping features at lightning speed
-🧠 Open Code (Grok, Claude, Google) - AI assistant for reviewing the tasks
-💜 Lovable — Full-stack apps from prompts, perfect for rapid prototyping
-🔄 Replit — Instant deployment, collaborative coding, AI assistance
-⚡ Supabase — PostgreSQL + Auth + Real-time + Storage, all-in-one backend
-🌐 Polygon / Base / Solana — L2 chains for low gas fees
-📝 Solidity / Rust - For programming skills
-🚀 Vercel — Frontend hosting (works great with Lovable/Replit)
-🌊 Railway — Backend deployment if you need custom servers
+## 🚀 Current Focus (2025)
 
-Payments & Monetization:
-💳 Payments : Stripe / Cryptocurrencies — Fiat payments and decentralize
+### Research & Analysis
+Deconstructing successful platforms in the gambling/prediction/gacha space:
+- **Stake.com** — Casino UX patterns & retention mechanics
+- **Polymarket** — Market making algorithms & resolution systems
+- **Cheddr** — Social + prediction market convergence
+- **Genshin Impact** — Gacha psychology & monetization optimization
 
-Game Theory & Math:
+### Active Development
+Building MVPs in three verticals:
+1. **Prediction Mini-Games** — Skill-based betting with provably fair outcomes
+2. **Social Gacha Platform** — Collection mechanics with secondary marketplace
+3. **Crash Game Engine** — Real-time multiplayer betting infrastructure
 
-RNG Algorithms — Certified randomness
-House Edge Optimization — Balancing profitability and fairness
-Expected Value Calculations — Mathematical precision
-Statistical Analysis — Player behavior modeling
+### Skill Development
+- Advanced smart contract development (Solidity/Rust)
+- Real-time WebSocket architecture for multiplayer games
+- AI-driven player behavior prediction & personalization
 
+---
 
-💰 Current Bets — What I'm Building
-🎲 Researching — Anatomy of successful gambling platforms (Stake, Polymarket, Cheddr...)
-🃏 Designing — Creating some platform related to gambling/prediction markets/games.
-🎰 Coding — Building provably fair RNG systems and payment flows
-🔮 Studying — Behavioral psychology, cognitive patterns, and monetization mechanics
+## 📊 Core Principles
 
+**1. Data-Driven Design**  
+Every mechanic is measured, tested, and iterated based on behavioral metrics.
 
-🎴 House Rules — My Philosophy
-1. The house doesn't gamble — it optimizes
-2. Psychology & Technology (you need both)
-3. Whales pay for everyone else
-4. Find the grey zones
-5. Data is the ultimate edge
-6. Always be iterating
+**2. Psychological Precision**  
+Understanding neuroscience (dopamine systems, variable ratio reinforcement, loss aversion) informs every design decision.
 
-🌐 Find Me at the High Roller Table
-🐦 Twitter: @jacklanternxyz
-💼 Looking for: Collaborators, advisors, or early users
-📧 Contact: DMs open for serious inquiries
+**3. Transparent Systems**  
+Provably fair algorithms and clear odds build trust while maintaining house edge.
 
-🎰 The Bottom Line
-"In the casino, I'm not here to play — I'm here to build the tables, set the odds, and design the futur of economics"
-The cards are dealt. The wheel is spinning. Let's build something that wins.
+**4. Regulatory Awareness**  
+Building within legal frameworks with proper compliance from day one.
+
+**5. Iterative Development**  
+Ship fast, measure everything, optimize continuously.
+
+---
+
+## 🎓 Research Background
+
+Actively studying the intersection of:
+- **Neuroscience** — Dopamine pathways, reward anticipation, addiction mechanisms
+- **Behavioral Economics** — Cognitive biases, decision-making under uncertainty
+- **Game Theory** — Nash equilibria, optimal strategies, mechanism design
+- **Monetization Psychology** — Pricing strategies, value perception, whale optimization
+
+Reading list includes academic papers from *Journal of Gambling Studies*, *Behavioral Neuroscience*, and industry analysis from *Deconstructor of Fun*.
+
+---
+
+## 🔗 Connect
+
+- **Twitter:** [@jacklanternxyz](https://twitter.com/jacklanternxyz)  
+- **Email:** DMs open for collaborations, technical discussions, or project inquiries
+
+Looking for: Technical co-founders, behavioral psychologists, regulatory advisors, and early-stage users for beta testing.
+
+---
+
+## 📈 Philosophy
+
+> "The best platforms aren't built on luck—they're built on understanding human behavior, optimizing incentive structures, and engineering engagement loops that create value for both users and operators."
+
+I approach gambling and gacha development as a **design challenge**: how do you create compelling experiences that are psychologically engaging, mathematically sound, and ethically transparent?
+
+The goal isn't just to build games—it's to understand *why* people play, *how* to optimize engagement, and *where* the industry is heading.
+
+---
+
+**Status:** Open to collaborations on innovative betting/gacha platforms. Let's build something engaging.
