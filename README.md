@@ -1,4 +1,4 @@
-# 👋 Tristan — Gambling & Gacha Systems Engineer
+# 👋 Jack — Gambling & Gacha Systems Engineer
 
 Building next-generation engagement platforms at the intersection of behavioral psychology, game theory, and web3 technology.
 
