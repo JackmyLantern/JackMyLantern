@@ -55,30 +55,8 @@ Currently researching the memecoin market dynamics, with focus on:
 - **Multi-chain**: Cross-chain tracking & bridge analysis
 
 ### Development & Automation
-- **Languages**: Rust, Python, Solidity
+- **Languages**: Rust, Solidity, Python
 - **Specialization**: Trading bots, MEV strategies, blockchain monitoring
-
----
-
-## 🤖 Bot Development Portfolio
-
-I've built several sophisticated trading and monitoring systems in **Rust**:
-
-### Sniper Bots
-High-speed token launch snipers with <100ms execution time. Optimized for Solana and EVM chains with advanced mempool monitoring.
-
-### MEV Extraction
-Maximal Extractable Value bots for identifying and executing profitable arbitrage, liquidation, and sandwich opportunities for Rust.
-
-### Anti-Rugger System
-My most interesting project: a counter-scam system that:
-- Profiles known rug pullers and tracks their wallet migrations
-- Detects new token launches by identified scammers in real-time
-- Front-runs the rugger's own rug pull (buying early, selling before they can exit)
-- Uses behavioral clustering algorithms to link wallets across multiple operations
-
-This bot effectively "rugs the rugger" by exploiting their predictable patterns.
-
 ---
 
 ## 🎓 Methodology
@@ -177,18 +155,15 @@ I'm interested in collaborating with:
 
 ## 📊 Stats & Highlights
 ```
-🔍 Investigations:      Focused on memecoin manipulation & rug pulls
-🤖 Bots Developed:      Sniper, MEV, Anti-Rugger systems (Rust/Solidity)
-🧠 Approach:            On-Chain + Social Engineering + Psychology
-🎯 Specialty:           Predictive behavioral profiling of crypto criminals
+🔍 Investigations:      Focused on memecoin manipulation & rug pulls (for now), but also on every aspect of the blockchain.
+🧠 Approach:            On-Chain + Social Engineering + Psychology.
+🎯 Specialty:           Predictive behavioral profiling of crypto criminals.
 ```
 
 ---
 
 ## 🎲 Fun Facts
 
-- Robot maker/trader turned investigator — I understand both sides of the game
-- Built an anti-rugger bot that exploits scammer patterns to front-run their own rugs
 - Can identify a memecoin manipulator by analyzing their Twitter linguistic patterns
 - Believe the best investigators combine technical skills with understanding of human psychology
 - Currently researching how cult psychology applies to memecoin communities
