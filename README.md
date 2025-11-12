@@ -1,6 +1,6 @@
 # Blockchain Intelligence Research
 
-Forensic on-chain analysis combining transaction tracking, psychological profiling, and algorithmic detection to understand manipulation patterns in crypto markets.
+Forensic on-chain analysis combining transaction tracking, psychological pattern to algorithmic. In order to find and understand manipulation patterns in crypto markets.
 
 ## Focus Areas
 
