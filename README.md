@@ -4,7 +4,7 @@ Forensic on-chain analysis combining transaction tracking to algorithmic. In ord
 
 ## Focus Areas
 
-- **On-Chain Forensics**: Wallet clustering, fund flow analysis, MEV tracking
+- **On-Chain Forensics**: Wallet clustering, fund flow analysis, MEV tracking, Psychology analysis
 - **Algorithmic Tools**: Detection systems, pattern recognition
 
 ## Stack
